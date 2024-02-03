@@ -6,7 +6,7 @@ Java Resources from Basic to Advanced
 Java Interview Questions and Answers (Basic) - https://www.geeksforgeeks.org/java-interview-questions/
 
 
-# Core Java
+## Core Java
 
 Core Java Introducion - https://www.geeksforgeeks.org/what-is-core-java/
 
@@ -45,7 +45,7 @@ Multithreading Interview Questions & Answers - https://www.geeksforgeeks.org/top
 Java Keywords - https://www.geeksforgeeks.org/list-of-all-java-keywords/
 
 
-# Advance Java
+## Advance Java
 
 Spring Tutorial - https://www.geeksforgeeks.org/spring/
 Spring Core
@@ -66,7 +66,7 @@ Spring Boot Interview Questions
 Spring Boot Annotations - https://www.geeksforgeeks.org/spring-boot-annotations/
 
 
-# Microservices -
+## Microservices -
 Microserices Architecture
 Microserices Components
 Microserices Tools
@@ -80,7 +80,7 @@ Microserices Questions
 
 
 
-# Youtube Resources
+## Youtube Resources
 
 Telusko - https://www.youtube.com/@Telusko
 
