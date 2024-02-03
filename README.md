@@ -1,7 +1,7 @@
 # JavaResources
 Java Resources from Basic to Advanced
 
-# Java Basic
+## Java Basic
 
 Java Interview Questions and Answers (Basic) - https://www.geeksforgeeks.org/java-interview-questions/
 
