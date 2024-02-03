@@ -1,7 +1,7 @@
 # JavaResources
 Java Resources from Basic to Advanced
 
-## Java Basic
+## Basic Java
 
 Java Interview Questions and Answers (Basic) - https://www.geeksforgeeks.org/java-interview-questions/
 
@@ -45,7 +45,7 @@ Multithreading Interview Questions & Answers - https://www.geeksforgeeks.org/top
 Java Keywords - https://www.geeksforgeeks.org/list-of-all-java-keywords/
 
 
-## Advance Java
+## Advanced Java
 
 Spring Tutorial - https://www.geeksforgeeks.org/spring/
 Spring Core
