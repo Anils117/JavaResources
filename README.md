@@ -71,6 +71,7 @@ Spring Boot Annotations - https://www.geeksforgeeks.org/spring-boot-annotations/
 - Microserices Components
 - Microserices Tools
 - Microserices Projects
+- Services (DiscoveryServer, ConfigServer, ApiGateway, LoadBalancing, AuthServer, Zipkin, ApacheKafka, Resilience4j, FeignClients)
 
 Microserices Questions
 - https://www.simplilearn.com/microservices-interview-questions-article
